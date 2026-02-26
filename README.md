@@ -1,4 +1,4 @@
-#Análise – SINASC RO 2019
+# Análise – SINASC RO 2019
 
 Este projeto apresenta uma análise simples do conjunto de dados SINASC_RO_2019, com informações sobre nascimentos no estado de Rondônia no ano de 2019.
 
